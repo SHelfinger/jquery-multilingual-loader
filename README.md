@@ -38,18 +38,18 @@ Full Code
 
 ###### JSON File
 ```JSON
-{ 
-	"en" : [{
-	  "title" : "Title",
-	  "SubTitle" : "Sub Title",
-	  "First_Menu_Title" : "Home",
-	  ResponsiveDiv" : "<ul><li><img....</li></ul>"
-  }], 
-	"de" : [{
-	  "title" : Titel",
-	  "SubTitle" : "Untertitel",
-	  "First_Menu_Title" : "Home",
-	  "ResponsiveDiv" : "<ul><li><img...</li></ul>"
+{
+	"en": [{
+		"title": "Title",
+		"SubTitle": "Sub Title",
+		"First_Menu_Title": "Home",
+		"ResponsiveDiv": "<ul><li><img.... </li></ul>"
+	}],
+	"de": [{
+		"title": "Titel",
+		"SubTitle": "Untertitel",
+		"First_Menu_Title": "Home",
+		"ResponsiveDiv": "<ul><li><img...</li></ul>"
 	}]
 }
 ```
